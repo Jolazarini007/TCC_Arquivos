@@ -1,0 +1,113 @@
+﻿Marco dá a introdução
+
+
+Helton frequenta pouco a biblioteca
+
+
+os conteúdos que estão lá hoje estão em processo de atualização/inovação para poder bater com o conteúdo da instituição
+tem poucos livros de tecnologia, mas está melhorando continuamente
+A biblioteca possui um software livre, porém possui um profissional que sabe utilizar essa plataforma
+o Lucas é um profissional formado na área de bibliotecário
+
+
+//Perguntar qual o software utilizado para estudarmos
+
+
+o primeiro processo de melhora da biblioteca é ver o que o usuário quer (o aluno)
+o que tornaria mais fácil para eles?
+ele crê que a ideia de acervo online é interessante para os alunos/usuários
+ele acredita que os outros serviços estão em boa situação
+o principal requisito de sistema é fazer com que os alunos possam consutar o arsenario remotamente
+ele não acredita que muitos alunos utilizam a biblioteca
+80% do publico ou mais que utiliza a biblioteca é do EM, poucos do ensino técnico
+
+
+
+
+nsa
+
+
+ele utiliza a ferramenta todo dia a todo momento para exercer suas funções como professor
+hoje ele crê que é fácil utilizar o sistema por conhecimento da ferramenta, porém vê que ele é um sistema limitado e de pouco manuseio
+ele dificulta o acesso de novos usuários e deveria ser mais intuitivo
+
+
+layout
+
+
+aparência ruim/cansativa
+ele vê que, pensando no que o estado oferece, o layout representa bem a instituição, mas que poderia ser mais agradável de se usar, de se utilizar, que deveria ser mais intuitivo e etc
+ele gostaria que remodelasse tudo do zero
+ele foi feito como TCC e se tornou a plataforma essencial para todas as etecsa partir de 2010  e acabou crescendo de forma desorganizada pois teve que atender a uma demanda muito grande e muito repentina, tanto que todo sistema escolar acaba sendo mais agradavel que a nossa
+
+
+o app de celular do nsa é péssimo pois tem funções limitadas de chamada(só permite a chamada do dia), não permite fazer plano de aula e etc
+para o professor o app só é utilizado para a chamada do dia, todas as outras funções estão desabilitadas
+o mobile é inútil
+
+
+problemas de segurança
+
+
+hoje ele desconhece os problemas de segurança do nsa, mas antigamente ele sabe que existiram problemas mas que esses foram resolvidos em grande parte.
+a base de dados está criptografada
+
+
+funcionalidades que faltam nas duas plataformas:
+
+
+ele acredita que nsa deveria ser mais intuitivo e simplificado, ele gera todos os relatórios que a coordenação e os professores necessitam(por exemplo o plano de aula[pdt]), porém ele acredita que isso deveria já estar no nsa
+habilidade competência e base tecnológica(dados que não podem ser alterados, devem ser redigitados todos os dias por falta de intuitividade da página)
+
+
+
+
+mudanças que seriam boas
+
+
+pequenas correções para deixar as bases tecnológicas já cadastradas
+tem um layout mais moderno e simplificado
+menos é mais
+quanto mais simples, melhor de se trabalhar
+poluição visual muito grande na página atual
+cadastro dos planos de aulas(deveria ser padronizado ao invés de ter que ser reinserido todo semestre)
+remodelar para deixar com uma aparência mais moderna e intuitiva
+
+
+porque as mudanças não foram feitas
+
+
+falta de equipe técnica qualificada(é somente uma pessoa [aquela pessoa] )
+ele faz apenas correções emergenciais
+
+
+o que ele acha do nosso tcc
+
+
+o responsável não quer que a gente mexa e não vai nos dar acesso pois não quer perder o emprego né bestaaa
+
+
+já foram oferecidos outros sistemas para a etec?
+
+
+o sistema SIGA é utilizado por outras etecs pois é gratuito
+o professor nunca teve contato com ele
+os outros profissionais acreditam que ele é muito melhor que o nsa
+
+
+ver alguém que pode fazer um comparativo(ver denovo com a Roberta)(AI MDS, VAMOS TORTURAR ELAAAA)
+
+
+direcionamentos:
+
+
+sistema web para a biblioteca(aba do site)*
+
+
+a gente tem pouco tempo pra fazer ums sistema de software de gesão escolar e o da biblioteca
+
+
+fernando, paulo e ulisses podem dar depoimentos de outras etecs
+
+
+temos muitas entrevistas para fazer*

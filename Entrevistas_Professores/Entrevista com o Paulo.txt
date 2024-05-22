@@ -1,0 +1,59 @@
+﻿Marco inicia a entrevista
+
+
+o Paulo não utiliza a biblioteca da Etec e não acredita ser uma área notável na escola
+ele acredita que faltam livros atualizados, livros técnicos e livros de literatura
+além de falta de espaço e conforto no espaço
+ele acha que os livros são bem organizados e facilmente achados
+uma maneira de melhorar o serviço da biblioteca é comprando outros livros, fazer eventos e divulgar o uso da área
+além de criar um espaço externo para a biblioteca (ideia interessante)
+ele crê que uma parcela mínima de alunos utiliza a biblioteca, sendo a maior parte do médio
+
+
+nsa
+
+
+ele utiliza o nsa todo dia
+nsa é um sistema (não página)
+ele acredita que é fácil achar as funções do sistema
+ele utiliza mais a parte de chamadas e menções
+a aparência do sistema é, de acordo com ele, horrível
+e acredita que deveria ser refeito do ínicio ao fim para poder ser melhor
+falta uma descrição para cada área, interatividade, modernidade, responsividade, entre outras coisas
+
+
+ele já utilizou o aplicativo do nsa, acha a aparência péssima, e acredita que a funcionalidade é 40%
+por ele ser um app instalável
+nós temos um app e um site do nsa, temos que pensar nisso
+ele usa as mesmas o mas no app que no site
+
+
+ele acredita que o meio de fazer relatórios, notas e etc, tudo deveria ser melhorado
+
+
+inseguranças do nsa
+
+
+toda vez que você abre um aplicativo, ele abre uma porta de rede para você usar, um app como o word, abre ela e fecha, o nsa abre e deixa ela aberta enquanto ainda estiver instalado.
+
+
+funcionalidades
+
+
+ele acredita que na página, tudo deveria ser melhorado, já no aplicativo, falta uma otimização no layout, deixar ele rodando mais liso sem travar e dar erros
+
+
+(ver aplicativo dos professores no nsa)
+
+
+ele teve várias experiencias negativas ligadas ao nsa, com banco de dados, com rede
+as placas de ip das sedes ficam abertos no nsa e o sistema cai se ocorrer algum problema na sede(como acabar a luz ou algo do tipo)
+
+
+o aplicativo para celular é tão ruim que não compensa
+ao invés de termos um site e uma página, ele sugere que juntem os dois em um site responsivo
+pode ser em php laravel 10
+estuda sobre como fazer um apicativo que crie um site responsivo ao invéw de um sistema separado
+e o sistema pe contratado de uma empresa externa, não vem por parte da etec
+nem o professor sabe pq eles n trocaram
+o nsa utiliza o postgre e ele recomenda continuar usando o postgre

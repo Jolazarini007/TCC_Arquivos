@@ -1,0 +1,261 @@
+﻿Relatório da Entrevista com o Bibliotecário:
+
+
+Opinião sobre a Biblioteca:
+
+
+O bibliotecário utiliza a biblioteca diariamente e a considera uma área notável, embora pouco visitada devido à infraestrutura limitada, que poderia ser expandida. Ele destaca a grande variedade de conteúdo disponível, mas critica a burocracia para adquirir mais materiais. A organização da biblioteca está em progresso, mas é prejudicada pela falta de estrutura adequada. O bibliotecário planeja apresentar a biblioteca aos alunos e ouvir suas sugestões para melhorias, como a possível implementação de reservas de livros online. Ele observa que o horário de funcionamento limitado da biblioteca pode ser um obstáculo para os alunos que estudam à noite.
+
+
+Funcionalidades da Página do NSA:
+
+
+O bibliotecário não utiliza o NSA, portanto, não ofereceu comentários sobre suas funcionalidades ou usabilidade.
+
+
+Layout do NSA:
+
+
+Embora não tenha experiência direta com o NSA, o bibliotecário sugere que a aparência poderia ser melhorada e que o foco do desenvolvedor deve ser mais na funcionalidade do que no layout. Ele menciona que a identidade visual do Centro Paula Souza contrasta com a do NSA, sugerindo que uma atualização visual seria bem-vinda.
+
+
+Opinião sobre o App NSA:
+
+
+O bibliotecário não possui experiência com o aplicativo NSA e, portanto, não ofereceu comentários sobre sua aparência, usabilidade ou problemas de segurança.
+
+
+Falta de Usabilidade no NSA:
+
+
+Não houve comentários sobre a falta de usabilidade do NSA.
+
+
+Visão de uma Página e App Ideais para o NSA:
+
+
+O bibliotecário destaca a importância da segurança como prioridade e sugere melhorias no layout apenas após garantir a segurança do sistema. Ele não oferece mais detalhes sobre suas preferências para uma página ou aplicativo ideal do NSA.
+
+
+Motivos para a Falta de Mudanças até Agora:
+
+
+O bibliotecário atribui a falta de mudanças no NSA a limitações orçamentárias e problemas de gestão.
+
+
+Extras da Entrevista:
+
+
+O bibliotecário não estava ciente dos problemas de segurança no aplicativo móvel do NSA, mas expressou preocupação com a segurança dos dados dos TCCs digitalizados. Ele compartilha sua visão de uma biblioteca ideal, enfatizando a importância de um espaço maior e acessível para pessoas com deficiência.
+
+
+________________
+
+
+Relatório da Entrevista:
+
+
+Opinião sobre a Biblioteca:
+- O entrevistado não utiliza a biblioteca da ETEC, mas reconhece sua importância como uma área notável da instituição. Ele menciona que a biblioteca está sendo reorganizada para melhor atender aos alunos após um período sem bibliotecário. Acredita que há uma boa parcela de alunos que a utilizam.
+
+
+Funcionalidades da página do NSA:
+- O entrevistado acessa a página do NSA diariamente, mas considera o sistema complexo, com muitos menus, não sendo organizado nem intuitivo. Ele não forneceu detalhes sobre recursos específicos que utiliza com mais frequência.
+
+
+Layout da página do NSA:
+- Considera que a aparência visual da plataforma NSA não é agradável, sendo monocromática e não intuitiva. Não acredita que o layout atual represente bem a imagem da instituição. Sugere que os menus sejam melhor organizados para melhorar a usabilidade.
+
+
+Opinião sobre o Aplicativo NSA:
+- Utilizou o aplicativo NSA e o considerou feio e não intuitivo. Identificou as funcionalidades de registro de chamadas e de menções como úteis, mas sugeriu melhorias na construção do Plano de Trabalho Docente. Não estava ciente dos problemas de segurança existentes no aplicativo do NSA.
+
+
+Falta de Funcionalidades no NSA:
+- Acredita que o sistema precisa ser melhor organizado, com a remoção de menus e itens não utilizados pelos usuários.
+
+
+Visão de uma Página e um App Melhores para o NSA:
+- Sugeriu que o aplicativo contenha os conteúdos dos planos de curso já inseridos para economizar tempo na construção do plano de trabalho.
+
+
+Motivos para a Falta de Mudanças até Agora:
+- Atribui a falta de mudanças desejadas na página e no aplicativo NSA à ausência de equipe por parte do fornecedor.
+
+
+Considerações Finais:
+- O entrevistado apresentou preocupações significativas quanto à usabilidade e ao layout do sistema NSA, tanto na página quanto no aplicativo. Recomendações incluem uma reorganização dos menus para melhorar a usabilidade e uma revisão do layout para torná-lo mais agradável e intuitivo. A falta de mudanças desejadas até o momento é atribuída à ausência de equipe por parte do fornecedor, sugerindo a necessidade de uma solução para esse problema.
+
+
+________________
+
+
+Relatório da Entrevista com Helton:
+
+
+Opinião sobre a Biblioteca:
+- Helton frequenta pouco a biblioteca, mas menciona que ela está passando por um processo de atualização e inovação para alinhar seu conteúdo com os requisitos da instituição.
+- Destaca que há poucos livros de tecnologia na biblioteca, mas essa situação está sendo melhorada continuamente.
+- A biblioteca utiliza um software livre, e há um profissional capacitado para utilizá-lo, Lucas, formado na área de biblioteconomia.
+- Acredita que a ideia de disponibilizar o acervo online seria interessante para os usuários, principalmente para facilitar o acesso remoto.
+- Estima que a maioria dos usuários da biblioteca seja do Ensino Médio, com poucos alunos do Ensino Técnico.
+
+
+Funcionalidades da página do NSA:
+- Helton utiliza o sistema NSA diariamente para exercer suas funções como professor.
+- Considera o sistema complexo e pouco intuitivo, o que dificulta o acesso de novos usuários.
+
+
+Layout da página do NSA:
+- Considera a aparência visual da plataforma NSA ruim e cansativa, e acredita que o layout atual não representa bem a instituição.
+- Sugere uma remodelação completa do layout, destacando que o sistema cresceu de forma desorganizada desde sua criação como TCC.
+
+
+Opinião sobre o Aplicativo NSA:
+- O aplicativo NSA é considerado péssimo por Helton, com funções limitadas e inúteis para os professores. Ele menciona que apenas a função de chamada do dia é utilizada, enquanto outras funcionalidades estão desabilitadas.
+- Desconhece os problemas de segurança atuais do NSA, mas lembra que houve problemas no passado que foram parcialmente resolvidos.
+
+
+Falta de Funcionalidades no NSA:
+- Helton acredita que o NSA deveria ser mais intuitivo e simplificado, especialmente em relação à geração de relatórios como o plano de aula (PDT).
+- Destaca a falta de habilidade, competência e base tecnológica no sistema, que dificulta a redigitação diária de dados.
+
+
+Mudanças que Seriam Boas para o NSA:
+- Sugere pequenas correções para deixar as bases tecnológicas já cadastradas, um layout mais moderno e simplificado, e a padronização do cadastro dos planos de aulas.
+- Ressalta a importância de uma aparência mais intuitiva e menos poluição visual na página atual.
+
+
+Motivos para a Falta de Mudanças até Agora:
+- Atribui a falta de mudanças desejadas no NSA à falta de equipe técnica qualificada, destacando que apenas uma pessoa faz correções emergenciais no sistema.
+
+
+Considerações Finais:
+- Helton expressa preocupações significativas sobre a usabilidade e o layout do sistema NSA, destacando a necessidade de uma remodelação completa para torná-lo mais intuitivo e eficiente.
+- Recomendações incluem a implementação de um sistema web para a biblioteca e a busca por depoimentos de profissionais de outras instituições para comparar sistemas.
+
+
+________________
+
+
+Relatório da Entrevista com Ulisses:
+
+
+Biblioteca:
+- Ulisses acredita que a biblioteca é uma área notável da ETEC.
+- Percebe uma melhoria na organização da biblioteca em comparação com o passado.
+- A biblioteca está de pé há cerca de 12 ou 13 anos.
+- Ele menciona que a questão física parece ser o maior problema na biblioteca.
+- Acredita que uma boa parcela dos alunos, principalmente do Ensino Médio, utiliza a biblioteca.
+
+
+NSA:
+- Ulisses utiliza o NSA diariamente e o considera pouco intuitivo, mas fácil de usar devido ao tempo que passa na plataforma.
+- Utiliza principalmente as funcionalidades de chamada, lançamento de Plano de Trabalho Docente (PTD) e menções.
+- Acha que a aparência visual do NSA é pouco moderna, especialmente na tela de chamada.
+
+
+Layout:
+- Acredita que o layout do NSA poderia representar melhor a instituição e sugere melhorias na parte de chamada e na tela de PTD.
+
+
+Aplicativo NSA:
+- Ulisses nunca utilizou o aplicativo do NSA e prefere acessar a plataforma pelo computador.
+- Não tem conhecimento sobre problemas de segurança relacionados ao aplicativo.
+
+
+Gestão de Informações:
+- Considera que o site da ETEC está defasado em termos de informações e layout, em comparação com outros sites de outras ETECs.
+- Apesar de considerar que o NSA tem tudo o que eles precisam, percebe que há uma necessidade de mudança no layout, especialmente para melhorar a experiência do usuário.
+- Menciona problemas de lentidão e travamento na plataforma.
+
+
+Desafios e Obstáculos:
+- Destaca a falta de pessoal dedicado para cuidar da página e do NSA, devido à complexidade do sistema e à boa vontade do criador.
+- O NSA é hospedado em um servidor que requer uma boa rede.
+- Observa que todas as bibliotecas em que trabalha são bem frequentadas devido ao melhor espaço físico disponível.
+
+
+________________
+
+
+Relatório da Entrevista com Paulo:
+
+
+Biblioteca:
+- Paulo não utiliza a biblioteca da Etec e não acredita que seja uma área notável na escola.
+- Aponta a falta de livros atualizados, livros técnicos e de literatura, além de espaço e conforto insuficientes.
+- Considera os livros bem organizados e facilmente encontrados.
+- Sugere melhorar o serviço da biblioteca com a aquisição de mais livros, realização de eventos e promoção do uso do espaço.
+- Propõe a criação de um espaço externo para a biblioteca, uma ideia interessante para promover o acesso.
+
+
+NSA:
+- Utiliza o NSA diariamente e considera fácil encontrar as funções do sistema.
+- Utiliza principalmente as funcionalidades de chamada e menções.
+- Considera a aparência do sistema horrível e acredita que deveria ser refeito do início ao fim para melhorar.
+- Já utilizou o aplicativo do NSA e acha a aparência péssima, mas considera a funcionalidade razoável.
+- Destaca que tanto o aplicativo quanto a página do NSA deveriam ser melhorados, sugerindo uma otimização do layout e uma maior fluidez no funcionamento.
+
+
+Segurança do NSA:
+- Aponta preocupações com a segurança do NSA, destacando que o sistema deixa uma porta de rede aberta enquanto estiver instalado.
+- Teve várias experiências negativas relacionadas ao NSA, incluindo problemas com banco de dados e rede.
+
+
+Funcionalidades e Desenvolvimento:
+- Sugere melhorias em todas as áreas do NSA, tanto na página quanto no aplicativo.
+- Propõe a integração do site e do aplicativo em um site responsivo, possivelmente desenvolvido em PHP Laravel 10.
+- Destaca a necessidade de contratar uma empresa externa para desenvolver o sistema, pois atualmente não há informações sobre a troca do sistema existente.
+- Recomenda continuar utilizando o banco de dados Postgre.
+
+
+Considerações Finais:
+- Paulo apresenta uma série de críticas e sugestões construtivas em relação ao NSA, apontando áreas para melhoria tanto na usabilidade quanto na segurança do sistema.
+- Destaca a importância de uma abordagem integrada para o desenvolvimento do sistema, incluindo a contratação de uma empresa externa para garantir a qualidade e segurança necessárias.
+
+
+________________
+
+
+Relatório da Entrevista com Fernando:
+
+
+Biblioteca:
+- Fernando não utiliza muito a biblioteca da Etec, mas acredita que sua localização é boa.
+- Ele percebe que a biblioteca tem recursos, porém é limitada, especialmente em relação à disponibilidade de livros.
+- Considera a organização da biblioteca normal, sem problemas significativos.
+- Sugere a implementação de um catálogo online para facilitar o acesso aos recursos.
+- Acredita que uma parcela significativa de alunos utiliza a biblioteca, especialmente os alunos do período da tarde.
+
+
+NSA:
+- Utiliza a plataforma NSA quase todos os dias para fazer chamadas, mas considera as funcionalidades do sistema péssimas.
+- Critica a falta de intuitividade da plataforma, especialmente em relação à falta de atenção ao design de experiência do usuário (UX Design).
+- Aponta que a plataforma não apresenta bem as informações de cada usuário, mostrando o conteúdo de todos, o que é problemático para os professores.
+- Destaca que a aparência visual do sistema é péssima e não representa bem a instituição, sendo uma zona.
+
+
+Aplicativo NSA:
+- Menciona a falta de uma versão para iPhone do aplicativo NSA.
+- Aponta problemas como a falta de organização das informações, a ausência de processos offline e problemas com notas que desaparecem e falta de avisos automáticos.
+
+
+Mudanças Propostas:
+- Sugere mudanças na interface professor x máquina e a padronização e organização de todas as informações na plataforma.
+- Propõe a automação de mais processos na plataforma.
+- Expressa o desejo de que o aplicativo compreenda o contexto do professor em aula e forneça funções específicas para esse momento.
+- Acredita que a plataforma foi desenvolvida especificamente para ETECs e que cada instituição deve pagar para utilizá-la, mesmo sendo do estado, o que leva o proprietário a não se preocupar em otimizá-la.
+
+
+Melhorias Propostas:
+- Fernando propõe um trabalho de UX (experiência do usuário) e UD (design de usuário) para melhorar a usabilidade da plataforma.
+- Destaca a dificuldade em aprender a utilizar a plataforma e a falta de automação de processos, como a necessidade de inserir manualmente o Plano de Trabalho Docente (PTD).
+- Sugere a gravação de tela do aplicativo para facilitar o treinamento dos usuários.
+
+
+Considerações Finais:
+- Fernando expressa a necessidade de uma análise mais detalhada da plataforma pela perspectiva do professor na próxima entrevista, que está programada para a sexta-feira seguinte.
+
+
+________________

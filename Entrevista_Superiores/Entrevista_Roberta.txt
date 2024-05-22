@@ -1,0 +1,42 @@
+Entrevista Roberta
+
+Opinião sobre a biblioteca:
+- Não frequenta a biblioteca atualmente mas já frequentou;  
+- (SEM RESPOSTA)
+- "Os livros das etecs costumam ser antigos com poucas remessas de livros novos a deixando mais "arcaica", na biblioteca poderia haver e-books";
+- A entrevistada acredita que acesso a conteúdo digital poderia ser de grande melhoria aos serviços da biblioteca; 
+- "Acho que poucos alunos, quando eu vejo está vazia";
+
+Funcionalidades da página do NSA:
+- A entrevistada utiliza o NSA Gestão e Cordenador todos os dias;
+- Roberta acha o NSA "nada intuitivo", pelas palavras dela é necessário "adivinhar" o que tal link direciona, abas importantes ficam escondidas e para piorar existem videos explicativos de como usar o NSA dentro do próprio NSA; 
+- Areas burocraticas como "Verificação de frequências", "Boletims", "Analises de plano de trabalho de professores e coordenadores" etc; 
+
+Layout do NSA:
+- Feia, monocromática, não intuitiva, não é uma interface agradável, confuso; 
+- Não representa de forma alguma, não tem logo, não é customizável etc; 
+- (ENTREVISTA NÃO FINALIZADA, PREVISTA PARA SER RETOMADA DIA 13/03 VULGO AMANHÃ)
+
+Opinião sobre o app NSA:
+-
+-
+-
+
+Falta de Usabilidade no NSA:
+-
+-
+-
+
+Visão de uma página e App ideiais:
+-
+-
+
+Motivos para a falta de mudanças até agora:
+-
+-
+
+EXTRAS DA ENTREVISTA
+
+- Um bom exemplo de layout e funcionalidade em uma plataforma da etec seria a SIGA ETEC, uma plataforma que a Roberta nos avisou da existência;
+
+- Roberta ja fez um trabalho de pesquisa sobre a plataforma NSA, ela buscava formas de deixar o NSA mais intuitivo, simples etc.
