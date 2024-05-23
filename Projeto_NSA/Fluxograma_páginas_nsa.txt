@@ -1,0 +1,202 @@
+Ínicio{
+    Barra de Apps superior{
+        Início{
+            volta pro início
+        }
+        Downloads{
+            Arquivos{
+                Regimento Comum das Etecs{
+                    Arquivo Vazio
+                }
+                Botão de Início{
+                    volta pro início
+                }
+                Arquivos anexados{
+                    Calendário Escolar{
+                        Calendário EScolar 2024 Associação Comunitária Despertar
+                        Calendário EScolar 2024 CEU Caminho do Mar
+                        Calendário EScolar 2024 E. E. Senador Robert Kennedy
+                        Calendário Escolar - Sede JK - 2024
+                    }
+                    Ext. Despertar{
+                        Matriz 2023 - Despertar
+                    }
+                    Ext. Kennedy{
+                        Administração{
+                            Matriz 2° 2022 - ADM Kennedy
+                            Matriz 2023 - ADM - Kennedy
+                        }
+                        Comércio Exterior{
+                            Matriz 2° 2023 - Comex Kennedy
+                        }
+                        Logísitica{
+                            Matriz 2° 2022 - LOG Kennedy
+                            Matriz 2023 - LOG - Kennedy
+                        }
+                        Recursos Humanos{
+                            Matriz 2° 2023 - RH
+                        }
+                    }
+                    Sede - ETEC JK{
+                        Administração{
+                            Matriz 2° 2023 - ADM
+                            Matriz Curricular - ADM 2° 2022
+                            Matriz 2023 - ADM - Sede
+                        }
+                        Desenvolvimento de Sistemas{
+                            Matriz 2° 2023 - DES
+                        }
+                        Ensino Médio com Habilitação Técnica (M-Tec){
+                            Matriz Curricular - M-Tec 2022
+                            Matriz 2023 - MTEC
+                        }
+                        Ensino Médio com Habilitação Técnica (M-Tec_PI){
+                            Matriz Curricular - M-TEC 2022
+                            Matriz 2023 - MTEC
+                        }
+                        Ensino Médio com Itinerário Formativo (EMIF){
+                            Matriz Curricular - EMIF 2021
+                            Matriz Curricular - EMIF 2022
+                            Matriz 2023 - EMIF
+                        }
+                        Informática{
+                            Matriz Curricular - INF 1° 20223
+                            Matriz Curricular - INF 2° 2022
+                        }
+                        Informática para Internet{
+                            Matriz Curricular - INI 2° 2022
+                            Matriz 2023 - INI
+                        }
+                        Logísitica{
+                            Matriz 2023 - LOG -Sede
+                            Matriz 2° 2023 - LOG
+                            Matriz Curricular - Log 2° 2022
+                        }
+                    }
+                    Ext. Caminho do Mar{
+                        Administração{
+                            Matriz 2° 2023 - ADM CEU
+                            Matriz Curricular - ADM CEU - 2° 2022
+                            Matriz 2023 - ADM - CEU
+                        }
+                        Finanças{
+                            Matriz 2° 2023 - FIN
+                            Matriz 2023 - Finanças
+                        }
+                        Recursos Humanos{
+                            Matriz Curricular - RH 2° 2022
+                            Matriz Curricular - RH 2° 2023
+                            Matriz 2023 - RH
+                        }
+                    }
+                    Atividades on-line(Teams){
+                        A Importância do ato de ler
+                        Etec JK Edital Semana Paulo Freire 2020 - Homenagem a Paulo Freire on-line
+                        Live_PauloFreireFaLeituraNasRedesSociais
+                        Teams
+                    }
+                }
+            }
+            Material Didático{
+                Selecione o módulo/série
+                Conteúdo vazio em tudo
+            }
+            PTD{
+                Módulo/série(selecione)
+                Semestre(selecione)
+                {
+                    Componentes respectivos do módulo/série
+                }
+            }
+        }
+        Diário{
+            Aulas e Faltas{
+                Selecione o Módulo/série
+                Tabelas e Gráficos com a porcentagem de presenças e faltas
+            }
+            Horário{
+                Tabela com horário de aulas e indicativo do dia atual
+            }
+            Avaliações Previstas{
+                Área vazia
+            }
+            Controle de Entrada e Saída{
+                Controle não incluído
+                Forma de busca confuso
+            }
+            Aproveitamento de Estudos{
+                aba para solicitar o aproveitamento de algum conteúdo que você já tenha estudado(eliminando ele das suas necessidades curriculares)
+            }
+            Suas Equipes no Teams{
+                Tabela com as equipes no Teams nas quais o usuário está incluído (não possui links)
+            }
+            Cardápio{
+                Aba de cardápio foi inutilizada
+            }
+        }
+        Menções{
+            Boletim{
+                Exibe todo o boletim, incluindo notas, presença situação e etc.
+            }
+            Progressões P. ou Adaptações{
+                Área vazia
+            }
+        }
+        Professores{
+            exibe o nome de todos os professores e seus emails(nem todos tem emails)
+        }
+        Sugestões ou Reclamações{
+            Aba para enviar sugestões e/ou reclamações(n parece ser anônimo)
+        }
+        Cadastro{
+            Dados Pessoais{
+                área para alterar dados pessoais
+            }
+            Currículo{
+                aba para adicionar seu currículo
+            }
+            Vacinas - Covid-19{
+                aba para adicionar o comprovante da vacina covid
+            }
+            Pesquisa de Empregabilidade{
+                uma aba com UMA PERGUNTA SIMPLES se você trabalha ou não
+            }
+            Questionário Socioeconômico{
+                aba com o questionário Socioeconômico
+            }
+        }
+        Declarações{
+            aba para poder retirar e solicitar declarações
+        }
+        Rematrícula{
+            aba para fazer a rematrícula no curso
+        }
+        Pesquisa{
+            aba para pesquisas(sem pesquisas)
+        }
+        SAIR
+    }
+
+    Identificação do aluno{
+        Foto/Alterar Foto
+        Dados do Aluno
+    }   
+
+    Projeto Office 365{
+        Email Institucional
+        Trocar de senha do Email
+        Acessar email Institucional
+    }
+
+    Mensagens para o aluno{
+
+    }
+
+    Pendências{
+        Respectivas pendências
+    }
+
+    Notícias{
+        Respectivas notícias.
+    }
+}
