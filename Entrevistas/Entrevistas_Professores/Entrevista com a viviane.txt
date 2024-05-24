@@ -1,0 +1,51 @@
+Entrevista com a viviane
+
+marco inicia a entrevista
+
+ela ausa a biblioteca sada etec raramente e vê que, dos cursos modulares, ela é pouca usada
+mas acredita que o pessoal do ensino médio usa até que mais
+ela acha que os recursos da biblioteca são até que precários por falta de espaço, de acervo, de mesas e etc
+ela acredita que o bibliotecário fez uma grande mudança na bilbioteca e deixou ela MUUUITO mais organizada
+antes dele aparecer, eram vários professores que tentavam administrar a biblioteca, o que tornava ela muito mais desorganizada por puxar muito dos professores
+para melhoria, ela acredita que falta perguntar pros alunos sobre livros que eles gostariam de ver lá e que o espaço fosse melhorado
+
+ela acessa o nsa diariamente e descreve as funcionalidades do sistema como limitadas
+crê que é difícil de achar as informações que precisa pois ele não é didático nem funcional e que ele é arcaico
+muito manual para um site
+os recursos que ela mais utiliza no sistema são: chamada, planejamento de aulas, verificar o lançamente de chamada de professor e etc
+sobre a aparência, ela crê que é pouco moderna e que não representa bem aimagem da nossa instituição(principalmente se pensar pela área de tecnologia)
+Ela acha que a parte de planejamento de aulas ser manual e um grande defeito e que poderia ser melhor
+
+Ela nunca utilizou a versão de celular do nsa e nem sabia que tinha os problemas de segurança
+
+Ela crê que falta uma praticidade pra eles evidenciarem o dia a dia da sala de aulas, os planos de aula, e que deveria ser mais dinâmico e automático
+
+Ela já teve várias experiências negativas com o nsa, por exemplo lançar um planejamento de aula e não ficar salvo, não conseguir acessar o app quanto tem muita gente acessando(AAHAAAAA) e coisas assim
+
+de mudanças que ela crê que seriam boas, ela imagina um sistema mais dinâmico/moderno
+as bases tecnológicas tem que ser lançadas todo semestre e anotar o que ela vai trabalhar por data
+mas não consegue fazer o processo de forma automatizada e tem que organizar manualmente pra poder funcionar
+eles recebem um arquivo todo semestre com o placo de curso
+infelizmente o problema de ter que inserir as bases tecnologicas entra por conta de não conseguir absorver o negócio na hora e precisar que receba o negócio automáticamente
+o arquivo não muda(muda raramente) e poderia ter um processo bem básico pra resolver isso automaticamente
+
+o processo de lançar notas é manual, precisaria de um processo pra mudar um por um
+com um algoritmo básic, dava pra resolver isso
+
+se tivesse um meio de calcular essas informações automaticamente, seria ótimo
+e se pudesse ser alterado de acordo com o que eles quisessem
+
+não tem meio de ver quais dias estava faltando lançar chamada
+fica difícil caso você tenha que administrar MUITAS turmas ao mesmo tempo
+
+na percepção dela, ela crê que por questões de investimento e de comodidade por parte do desenvolvedor quanto a falta de mudanças do nsa
+
+como profissional, ela deixaria ele muito mais intuitivo e dinâmico
+
+pergunta a parte do mar: ela é professora a 14 anos
+e até hoje tem coisas que ela não sabe usar direito
+a ferramente não é tão moderna e ainda dá dificuldade para usuarios antigos
+e crê que isso é uma questão de todos os professores, não só dela
+
+perguntas adicionais, vamos pensar
+YIPIII
