@@ -1,0 +1,43 @@
+entrevista com helton:
+
+-sobre a carreira dele
+
+	qual sua área de atuação?
+
+hoje, na educação
+iniciou em suporte e se especializou em banco
+
+	a quanto tempo você trabalha na sua área?
+
+ele ficou 3 nos trabalhando nessa área, mas não chegou a trabalhar com dda
+
+	você já trabalhou eu um projeto de longo porte?
+
+ele era analista de uma imobiliaria, ams freqeuentemente ele mexia no banco por questões de desempenho
+grande parte das vezes o problema era na maquina ou na web
+também trabalhou no desenvolvimento de um sistema para gerenciamento escolar chamado "Cassiopeia"(isso pode ser util no nsa)
+
+	pode falar sobre o projeto e qual foi sua participação no mesmo?
+
+ele fez o apuramento de dados, desenvolvimento e fez parte da parte tecnica de verificar cabeamento e etc do local.
+	
+	o que você acha do postgresql? 
+
+pra ele, a grande diferença entre os dois é o fato do postgre ser sso
+
+	perguntar php vs nextjs
+
+depende das nossas facilidades e habilidades
+	
+	perguntar sobre quem ele acha que poderiamos entrevistar para o prosseguir do nosso projeto e o porquê
+
+Paulo e helton -  banco
+Ulisses e Jeferson -  php
+
+	ele acha que precisamos/podemos mexer na parte do site da etec?
+
+já está sendo atualizado
+
+	perguntar se vamos aprender sobre triggers na aula dele
+
+talvez semestre que vêm

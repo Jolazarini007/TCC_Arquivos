@@ -1,0 +1,32 @@
+anotações da entrevista com helton
+
+	juan nicia a entrevista
+
+não dá pra fazer e exportação**
+
+pensar nas informações
+
+depois nas funções que vão ter que ter pro banco
+
+conversar com o pessoal do 1º modulo
+
+modelar o banco
+
+estetica por ultimo
+
+ver com o ulisses sobre a conexão de dados com php
+
+vpn para conexão direta com o banco(perguntar mais futuramente)
+
+
+sobre clusters: 
+um dos clusters serve pra, caso você queira trabalhar com somente um tipo de processamento, mas caso subam várias funções ao mesmo tempo, ele é ativado pra não sobrecarregar o sistema. 
+O outro serve pra caso de manter a performance em todo o periodo.
+
+velocidade do sistema pode estar relacioanda a variaz coisas, no caso da etec pode estar relacionado ao fato do cabeamento não ser dos melhores e por ter uma estrutura antiga
+
+não tem nsa pra linux (VAMO FAZER HEHEHE)
+
+a parte de chamada só funciona no app, nao no app
+
+configurações do sistema(temos que oensar no que vai ser encessário pro servidor rodar liso(pergunta se ele conhece alguém que pode nos ajudar)
