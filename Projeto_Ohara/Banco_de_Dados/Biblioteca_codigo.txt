@@ -1,0 +1,193 @@
+CREATE TABLE Sedes(
+	id INT PRIMARY KEY, 
+	nome VARCHAR(255) 
+); 
+CREATE TABLE Bibliotecas(
+	id INT PRIMARY KEY, 
+	id_sede INT, 
+	FOREIGN KEY (id_sede) REFERENCES Sedes(id) 
+); 
+CREATE TABLE Estantes( 
+	id INT PRIMARY KEY,
+	id_biblioteca int,
+	cod VARCHAR(10),
+	FOREIGN KEY (id_biblioteca) REFERENCES Bibliotecas(id)
+); 
+
+CREATE TABLE Assuntos_Estantes( 
+	id_estante INT, 
+	id_assunto INT, 
+	FOREIGN KEY (id_estante) REFERENCES Estantes(id), 
+	FOREIGN KEY (id_assunto) REFERENCES Assuntos(id), 
+	PRIMARY KEY (id_estante, id_assunto) 
+);
+
+CREATE TABLE Idiomas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    codigo_iso639 VARCHAR(3) NOT NULL
+);
+
+CREATE TABLE Editoras (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    endereco VARCHAR(255),
+    telefone VARCHAR(20),
+    website VARCHAR(255)
+);
+
+CREATE TABLE Autoridade_Secundaria (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome_tradutor VARCHAR(255),
+    lingua_original VARCHAR(255),
+    nome_ilustrador VARCHAR(255)
+);
+
+CREATE TABLE Livros (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    titulo VARCHAR(255) NOT NULL,
+    classificacao_etaria ENUM('L', '10', '12', '14', '16', '18'),
+    subtitulo VARCHAR(255),
+    data_publicacao DATE,
+    isbn VARCHAR(17),
+    edicao VARCHAR(50),
+    formato VARCHAR(50),
+    id_idioma INT,
+    id_editora INT,
+    local_publicacao VARCHAR(255),
+    qntd_paginas INT,
+    altura DECIMAL(10,2),
+    id_autoridade_secundaria INT,
+    numero_tombo VARCHAR(50),
+    status ENUM('disponível', 'reservado', 'alugado'),
+    id_biblioteca int,
+    FOREIGN KEY (id_idioma) REFERENCES Idiomas(id),
+    FOREIGN KEY (id_editora) REFERENCES Editoras(id),
+    FOREIGN KEY (id_autoridade_secundaria) REFERENCES Autoridade_Secundaria(id),
+    FOREIGN KEY (id_biblioteca) REFERENCES Bibliotecas(id)
+);
+
+CREATE TABLE Autores (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    descricao TEXT,
+    nome_pessoal INT,
+    entidade_coletiva INT,
+    autor_anonimo INT,
+    FOREIGN KEY (nome_pessoal) REFERENCES Nome_Pessoal(id),
+    FOREIGN KEY (entidade_coletiva) REFERENCES Entidade_Coletiva(id),
+    FOREIGN KEY (autor_anonimo) REFERENCES Autor_Anonimo(id)
+);
+
+CREATE TABLE Nome_Pessoal (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome_completo VARCHAR(255) NOT NULL,
+    titulo VARCHAR(255),
+    nacionalidade VARCHAR(255),
+    data_nascimento DATE,
+    data_falecimento DATE
+);
+
+CREATE TABLE Entidade_Coletiva (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome_completo VARCHAR(255) NOT NULL,
+    local_realizacao VARCHAR(255),
+    data_realizacao DATE
+);
+
+CREATE TABLE Autor_Anonimo (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    titulo_uniforme VARCHAR(255),
+    data_escrita DATE,
+    informacoes_adicionais TEXT
+);
+
+CREATE TABLE Livros_Autores (
+    id_livro INT,
+    id_autor INT,
+    PRIMARY KEY (id_livro, id_autor),
+    FOREIGN KEY (id_livro) REFERENCES Livros(id),
+    FOREIGN KEY (id_autor) REFERENCES Autores(id)
+);
+
+CREATE TABLE Assuntos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    titulo VARCHAR(255) NOT NULL,
+    classificacao VARCHAR(50)
+);
+
+CREATE TABLE Livros_Assuntos (
+    id_livro INT,
+    id_assunto INT,
+    PRIMARY KEY (id_livro, id_assunto),
+    FOREIGN KEY (id_livro) REFERENCES Livros(id),
+    FOREIGN KEY (id_assunto) REFERENCES Assuntos(id)
+);
+
+CREATE TABLE Notas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_livro INT,
+    tipo VARCHAR(50),
+    texto TEXT,
+    FOREIGN KEY (id_livro) REFERENCES Livros(id)
+);
+
+CREATE TABLE Series (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE Livros_Series (
+    id_livro INT,
+    id_serie INT,
+    PRIMARY KEY (id_livro, id_serie),
+    FOREIGN KEY (id_livro) REFERENCES Livros(id),
+    FOREIGN KEY (id_serie) REFERENCES Series(id)
+);
+
+CREATE TABLE Informacoes_Aquisicao (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_livro INT,
+    data_aquisicao DATE,
+    fonte VARCHAR(255),
+    preco DECIMAL(10, 2),
+    FOREIGN KEY (id_livro) REFERENCES Livros(id)
+);
+
+CREATE TABLE Controle_Biblioteca (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_livro INT,
+    id_biblioteca INT,
+    id_usuario INT,
+    numero_chamada VARCHAR(50),
+    status_emprestimo ENUM('disponível', 'emprestado'),
+    data_devolucao DATE,
+    versao INT,
+    data_revisao DATE,
+    FOREIGN KEY (id_livro) REFERENCES Livros(id),
+    FOREIGN KEY (id_biblioteca) REFERENCES Bibliotecas(id),
+    FOREIGN KEY (id_usuario) REFERENCES Usuarios(id)
+);
+
+CREATE TABLE Usuarios(
+	id INT AUTO_INCREMENT PRIMARY KEY,
+	nome VARCHAR(255),
+	data_nascimento DATE,
+	email VARCHAR(255),
+	rm VARCHAR(10)
+	id_sede INT,
+	cpf VARCHAR(255),
+	autoridade ENUM('bibliotecario', 'aluno', 'professor', 'coordenacao', 'superiores'),
+	data_cadastro DATETIME,
+	telefone VARCHAR(11),
+	FOREIGN KEY (id_sede) REFERENCES Sedes(id)
+);
+
+CREATE TABLE Reservas ( 
+	id INT AUTO_INCREMENT PRIMARY KEY, 
+	id_livro INT, 
+	id_usuario INT, 
+	data_reserva DATETIME, 
+	FOREIGN KEY (id_livro) REFERENCES Livros(id), 
+	FOREIGN KEY (id_usuario) REFERENCES Usuarios(id) 
+);
