@@ -1,0 +1,30 @@
+Coisas para cadastrar livros{
+
+	faixa etária
+	código do autor
+	autor do livro
+	título do livro
+	edição
+	data de publicação
+	editora
+	qnt de páginas
+	tamanho do livro
+	assunto do livro(gênero)
+}
+
+Coisas para cadastrar usuário{
+
+	nome
+	email
+	rm
+	idade
+}
+
+Funções interessantes{
+
+	cartão digital
+	avisos para empréstimo de livros
+	indicação de que livros estão disponíveis e por quanto tempo foram alugados
+	suspensão de empréstimo
+	
+}

@@ -1,0 +1,22 @@
+juan inicia a entrevista
+
+a área de atuação atual dele é educaçãoe trabalha nessa área a 12 anos
+a parte de programação agregou muito a ele prncipalmente na parte de conteúdo que ele pode passar para os alunos nas aulas
+
+sobre o php
+
+ele acha que o php é uma boa escolha pra fazer uma plataforma como o nsa por conta da quantidade de ferramentas que podem ajudar no nosso projeto
+uma recomendação é o code igniter(php)(é novo hein)
+
+pro tipo de sistema que queremos fazer, ele acredita que o php com outra linguagem não faria sem sentido, principamente pelo fato que o php é mais simples e mais leve(caso seja necessário, pode ser, mas vai requerir mais poder de processamento)
+
+api restfull(vou ter que estudar AAAAAAAAAAAAAAAAAAAA)
+
+o php é o intermediário*
+
+o Ulisses nunca trabalhou em nenhum projeto muuuito grande de programação e trabalhou direto com educação
+Ele também dá aula de banco de dados*
+
+agora ele recomenda pensarmos na questão de hospedagens, de usuários e de visão do usuário pra nossa aplicação
+
+api é basicamente uma conexão entre um backend e um serviço que facilita a utilização do mesmo(exemplo: viacep)

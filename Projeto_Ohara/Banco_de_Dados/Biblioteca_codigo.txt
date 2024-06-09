@@ -172,6 +172,7 @@ CREATE TABLE Controle_Biblioteca (
 CREATE TABLE Usuarios(
 	id INT AUTO_INCREMENT PRIMARY KEY,
 	nome VARCHAR(255),
+	senha TEXT,
 	data_nascimento DATE,
 	email VARCHAR(255),
 	rm VARCHAR(10)
