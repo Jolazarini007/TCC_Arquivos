@@ -1,3 +1,5 @@
+ENTREVISTA2 CAROLINA 1DS
+
 Sobre a ETEC:
 
 	* a quanto tempo você está na etec?
@@ -30,35 +32,39 @@ Funcionalidades da página do NSA:
 	* Com que frequência você acessa a página da nossa instituição (NSA)?
 
 	* Como você descreveria as funcionalidades do  sistema NSA? É fácil encontrar as informações que você procura?
+, foi facil encontrar
 
 	* Quais recursos ou seções do sistema você costuma utilizar com mais frequência?
-
+apenas declaração de estudos e 1 vez boletim
 	* você está satisfeito com o sistema?
-
+sim
 	* você crê que sua visão do sistema é somente sua ou acredita que outros usuários compartilham da mesma visão?
-
+acho que existem opinioes divergentes sobre o nsa
 
 
 Layout da página do NSA:
 
 
 	* O que você acha da aparência visual da plataforma NSA?
-
+bem antiga e confusa
 
 	* Você acredita que o layout atual do sistema representa bem a imagem da nossa instituição?
-
+nem um pouco porque ele não tem as cores que representam a etec, laranja e azul além da logo, talvez se a etec fosse um poquinho mais diferente combinaria com laranja e azul
 
 	* Existe algo no layout da plataforma que você gostaria que fosse diferente?
+Acho que se fosse mais personalizavel para poder transmitir a essencia da etec, ta faltando essencia na etec jk, acho que poderião aproveitar os cursos que tem aqui, reforçar a palheta de cores, o ambiente da etec não ´passa a visão etec e sim apenas de escola comum, a visão da etec deveria ser de uma escola diferente
 
 	* O que você acha da questão de acessibilidade quanto ao nsa?
 
 	* caso esteja insatisfeito, o que acha que falta para melhorar? 
+insatisfação com as salas da etec, os banheiros, ela descobriu a existencia do lab de quimica esses dias que nem funciona e esta cheio de tralha
 
 
 Opinião sobre o Aplicativo NSA:
 
 
 	* Você já utilizou o aplicativo NSA? Se sim, o que você achou da aparência e da usabilidade?
+nunca utilizou o app mobile, nem sabia da existencia por falta de comunicação sobre
 
 
 	* Quais funcionalidades do aplicativo você considera mais úteis? E quais você gostaria que fossem melhoradas?
@@ -71,16 +77,18 @@ Falta de Funcionalidades no NSA:
 
 
 	* Na sua opinião, quais são os principais aspectos que faltam em termos de funcionalidade na página e no aplicativo NSA?
+acho que poderiam colocar algo para conseguir salvar arquivos de estudo
 
 
 	* Você já teve alguma experiência negativa ao utilizar o página ou no aplicativo NSA? Se sim, poderia descrever?
+nunca teve experiencia negativa mas ja sentiu insatisfação para com o nsa
 
 
 Visão de uma página e de um App melhores para o NSA:
 
 
 	* Como você imagina mudanças que seriam boas para a página e o aplicativo da nossa instituição?
-
+acho que poderiam colocar mais noticias sobre a escola, eventos e muitos representantes tem reuniao e tem que passar informação para os alunos mas essas informações poderiam estar no NSA para facilitar
 
 	* Quais funcionalidades ou características essenciais você gostaria que fossem incluídas em uma página e aplicativo melhores para o NSA?
 
@@ -89,24 +97,29 @@ Motivos para a Falta de Mudanças até Agora:
 
 
 	* Na sua percepção, por que acha que não foram realizadas as mudanças desejadas na página e no aplicativo NSA até o momento?
-
+acho que teve falta de interesse da parte do CPS, 
 
 perguntas extras sobre o layout:
 
 
 	* O que você faria, como profissional na área, para melhorar o layout da plataforma nsa?
-
+estar colocando algo mais acessivel e bonito visualmente, em relação ao acesso tem que colocar o email institucional, microsoft authenticator
 
 	* e quanto ao aplicativo?
+um calendario com os eventos da etec, seria legal ter uma area aonde os professores anunciam as atividades mas isso ja existe no teams, sinceramente acho que o teams é uma plataforma muito boa, o nsa eu olhei mas não fiquei surpresa
 
 Pesquisa de satisfação:
 
 	* o que você achou da entrevista?
+nota 10 de 10
+
 
 	* você está satisfeito com as suas respostas?
-
+satisfeita
 	* tem alguma pergunta que você adicionaria na entrevista?
+acho que a maioria das perguntas estão boas, sem por nem tirar, na vdd poderia adicionar "qual a sua opinião sobre a qualidade dos estudos da etec"
 
 	* você mataria os entrevistadores?
+ela mataria o João e o gato
 
 	* (acso seja professor) você poderia fazer uma gravação de tela para nós podermos ver a sua interface e compreender melhor as suas dificulades se existirem?
